@@ -10,7 +10,7 @@ public class TestRunner {
 
    public static void run() {
 
-        new RandomDemo();
+       new Lottery();
 
-        }
+   }
 }
